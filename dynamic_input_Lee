@@ -1,0 +1,13 @@
+#accepts input from user
+name = input ("Enter your name:")
+print("You're name is:" + name)
+
+#accepts numerical input
+
+fnum =  int(input("enter first number:"))
+snum = int (input("enter second number"))
+
+to_int_value=int("3")
+
+print(fnum+snum)
+print(to_int_value ** 3)
